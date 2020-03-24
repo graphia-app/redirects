@@ -3,6 +3,7 @@
 declare -A REDIRECTS=(
     ['coef_variation']='https://en.wikipedia.org/wiki/Coefficient_of_variation'
     ['contraction']='https://en.wikipedia.org/wiki/Edge_contraction'
+    ['correlation_coef']='https://en.wikipedia.org/wiki/Correlation_coefficient'
     ['eccentricity']='https://en.wikipedia.org/wiki/Eccentricity_(graph_theory)'
     ['help']='https://kajeka.com/wiki/Graphia:Home'
     ['knn']='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm'
