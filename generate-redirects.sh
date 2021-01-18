@@ -1,6 +1,7 @@
 #! /bin/bash
 
 declare -A REDIRECTS=(
+    ['betweenness']='https://en.wikipedia.org/wiki/Betweenness_centrality'
     ['coef_variation']='https://en.wikipedia.org/wiki/Coefficient_of_variation'
     ['contraction']='https://en.wikipedia.org/wiki/Edge_contraction'
     ['correlation_coef']='https://en.wikipedia.org/wiki/Correlation_coefficient'
