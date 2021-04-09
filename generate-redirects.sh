@@ -7,6 +7,7 @@ declare -A REDIRECTS=(
     ['correlation_coef']='https://en.wikipedia.org/wiki/Correlation_coefficient'
     ['eccentricity']='https://en.wikipedia.org/wiki/Eccentricity_(graph_theory)'
     ['help']='https://graphia.app/userguide.html'
+    ['jaccard']='https://en.wikipedia.org/wiki/Jaccard_index'
     ['knn']='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm'
     ['louvain']='https://en.wikipedia.org/wiki/Louvain_modularity'
     ['mcl']='https://micans.org/mcl/'
