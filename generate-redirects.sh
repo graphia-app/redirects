@@ -5,7 +5,9 @@ declare -A REDIRECTS=(
     ['coef_variation']='https://en.wikipedia.org/wiki/Coefficient_of_variation'
     ['contraction']='https://en.wikipedia.org/wiki/Edge_contraction'
     ['correlation_coef']='https://en.wikipedia.org/wiki/Correlation_coefficient'
+    ['cosine']='https://en.wikipedia.org/wiki/Cosine_similarity'
     ['eccentricity']='https://en.wikipedia.org/wiki/Eccentricity_(graph_theory)'
+    ['euclidean']='https://en.wikipedia.org/wiki/Euclidean_distance'
     ['help']='https://graphia.app/userguide.html'
     ['jaccard']='https://en.wikipedia.org/wiki/Jaccard_index'
     ['knn']='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm'
@@ -17,6 +19,7 @@ declare -A REDIRECTS=(
     ['register']='https://kajeka.com/graphia-download'
     ['spanning_tree']='https://en.wikipedia.org/wiki/Spanning_tree'
     ['spearman']='https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient'
+    ['smc']='https://en.wikipedia.org/wiki/Simple_matching_coefficient'
     ['stddev']='https://en.wikipedia.org/wiki/Standard_deviation'
     ['variance']='https://en.wikipedia.org/wiki/Variance'
 )
