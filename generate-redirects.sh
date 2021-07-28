@@ -2,6 +2,7 @@
 
 declare -A REDIRECTS=(
     ['betweenness']='https://en.wikipedia.org/wiki/Betweenness_centrality'
+    ['bicor']='https://en.wikipedia.org/wiki/Biweight_midcorrelation'
     ['coef_variation']='https://en.wikipedia.org/wiki/Coefficient_of_variation'
     ['contraction']='https://en.wikipedia.org/wiki/Edge_contraction'
     ['correlation_coef']='https://en.wikipedia.org/wiki/Correlation_coefficient'
