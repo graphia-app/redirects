@@ -9,6 +9,7 @@ declare -A REDIRECTS=(
     ['cosine']='https://en.wikipedia.org/wiki/Cosine_similarity'
     ['eccentricity']='https://en.wikipedia.org/wiki/Eccentricity_(graph_theory)'
     ['euclidean']='https://en.wikipedia.org/wiki/Euclidean_distance'
+    ['example_datasets']='https://graphia.app/example-data.html'
     ['help']='https://graphia.app/userguide.html'
     ['jaccard']='https://en.wikipedia.org/wiki/Jaccard_index'
     ['knn']='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm'
